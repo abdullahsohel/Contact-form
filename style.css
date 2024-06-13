@@ -1,5 +1,5 @@
 .logo-style-apply{
-    background-color:bisque; 
+    background-color:rgb(222, 156, 77); 
     height: 50px; 
     width: 50px;
    align-content: center;
@@ -29,7 +29,7 @@ h1{
 text-align: center;
 }
 h6{
-    color:bisque;
+    color:rgb(222, 156, 77);
 
 }
 p{
@@ -37,7 +37,7 @@ p{
 }
 button{
     width: 100%;
-    background-color: bisque;
+    background-color: rgb(222, 156, 77);
     text-align: center;
     height: 40px;
     border-radius: 10px;
