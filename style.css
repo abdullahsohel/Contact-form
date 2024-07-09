@@ -1,3 +1,6 @@
+body{
+    background-color: black;
+}
 .logo-style-apply{
     background-color:rgb(222, 156, 77); 
     height: 50px; 
@@ -15,7 +18,7 @@
    text-align: center;
 color: black;
 
-    
+
 }
 .main-container{
     border :2px solid black;
